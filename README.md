@@ -15,7 +15,6 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -60,9 +59,6 @@ I learned a lot about mobile first web development, CSS styling, flex boxes, and
 This helped cement the many CSS properties and how they affect HTML tags.
 
 Learning more about flex boxes has also greatly improved my front-end workflow. 
-
-
-
 
 
 ### Continued development
