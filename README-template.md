@@ -59,21 +59,7 @@ This helped cement the many CSS properties and how they affect HTML tags.
 
 Learning more about flex boxes has also greatly improved my front-end workflow. 
 
-To see how you can add code snippets, see below:
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
 
 
 
