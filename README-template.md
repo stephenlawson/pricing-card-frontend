@@ -39,6 +39,8 @@ Users should be able to:
 
 ## My process
 
+I initialized and configured a GitHub repository to maintain version control for this project. The project utilizes GitHub pages to easily publish this project for other to view. I initially created the HTML backbone then styles the borders and flex boxes to get an idea of how to make the divs flow into place. After that I added all the CSS classes and queries to make it stylish and flow from mobile to desktop and back.
+
 ### Built with
 
 - Semantic HTML5 markup
