@@ -70,7 +70,7 @@ I will continue to work on my implementation of flex boxes and JS in my frontend
 
 ## Author
 
-- Website - [Portfolio Site](https://www.stephen.photography/portfolio)
+-[My Portfolio Site](https://www.stephen.photography/portfolio)
 
 
 
