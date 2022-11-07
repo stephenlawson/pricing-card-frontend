@@ -54,7 +54,7 @@ I initialized and configured a GitHub repository to maintain version control for
 
 ### What I learned
 
-I learned a lot about mobile first web development, CSS styling, flex boxes, and HTML.
+I learned about mobile first web development, CSS styling, flex boxes, and HTML. This allowed me to make the pricing card eye catching and reactive for desktop and mobile aplication
 
 This helped cement the many CSS properties and how they affect HTML tags.
 
