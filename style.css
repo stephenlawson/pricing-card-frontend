@@ -17,6 +17,8 @@ h2, h4, p {
 }
 
 .card {
+  margin-left: auto;
+  margin-right: auto;
   width: 600px;
   height: 400px;
   box-shadow: 1px 1px 7px 0px rgba(0,0,0,0.36);
