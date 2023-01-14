@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://taylor1038.github.io/pricing-card-frontend/)
+- Solution URL: [Solution URL](https://stephenlawson.github.io/pricing-card-frontend/)
 
 
 ## My process
